@@ -1,6 +1,6 @@
-# TypeScript Express
+# Simple TypeScript Express
 
-> Simple TypeScript Express server
+> Simple TypeScript Express server starter project
 
 ### Features
 
